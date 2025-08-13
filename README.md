@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there ~
 
-<!--
-**maverickevil/maverickevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Break rules. Build chaos.**  
 
-Here are some ideas to get you started:
+I’m a developer who enjoys:
+- 🛠 **Systems programming** — from OS kernels to custom schedulers  
+- 💻 **Frontend engineering** — crafting modern, responsive, and accessible web apps with React & TailwindCSS  
+- 🪄 **Creative coding** — blending technology with storytelling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Tech Stack
+**Languages**  
+`Rust` `Go` `Zig` `Python` `TypeScript` `Assembly`
+
+**Domains**  
+`OS Development` `Virtual Machines` `Systems Programming` `DevOps` `Frontend UI/UX`
+
+## 📫 Contact
+- **GitHub**: [maverickevil](https://github.com/maverickevil)
+- **Email**: `tricky.fizz86@gmail.com`
